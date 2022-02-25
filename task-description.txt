@@ -1,0 +1,44 @@
+Please convert webinar-layout.png to HTML/CSS/JS without using any libraries.
+Header and footer should be sticky. Content (heading, form and accordion) should be vertically centered on larger screen.
+On mobile content should switch to 1-column layout.
+
+Content:
+	How to collaborate on an annual marketing plan
+
+	Register for webinar
+
+		Full name*
+		Company name*
+		Work email address*
+		Phone number
+		Submit
+
+	About webinar
+
+		What you’ll learn
+		In this webinar, you will learn How to create a marketing plan that drives consistent growth by reflecting the overall strategy, encompassing business goals with tasks and actions needed to reach them, creating compounding growth through organized, predictable efforts, that also add adaptability.
+
+		Meet the speakers
+		Alfonso Sica, Product Marketing Manager, Xara
+		Matt Bolton, CEO, Xara
+
+		Who this webinar is best for
+		Marketing managers, Heads of sales, Business founders, Real Estate Marketeers, Community Managers
+
+	Copyright © 2022 XARA GmbH. Xara® is a registered Trademark of Xara GmbH.
+
+Fonts and colors:
+	Text color: #22313e
+	Google font used: Poppins
+
+	Form elements border: #646464
+	Form elements color: #b2b2b2
+	Submit button: #2fa5e7
+
+	Header and footer background: #2e3f4f
+	Footer gradient: #2fa5e7, #4741c0, #ff3265
+
+	Accordion background: #f4f4f4
+	Accordion dividers and arrows: #cccccc
+
+	Approximate all other properties (fonts size, spacing etc) to match PNG.
